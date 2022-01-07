@@ -1,2 +1,2 @@
 # dotfiles
-Repo for my dotfile and other config files
+Repo for my dotfiles and other config files
